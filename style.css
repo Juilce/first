@@ -1,0 +1,38 @@
+h1{
+    font-size: 200%;
+    font-weight: 900;
+    color: blanchedalmond;
+    background-color: brown;
+    text-align: center;
+}
+.photo1{
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.photos{
+    display: block;
+    text-align: center;
+}
+.photos > img{
+    margin: 5px;
+    border: black;
+    border-style: dashed;
+}
+p{
+    margin-left: 65px;
+    margin-right: 65px;
+}
+
+footer{
+    background-color: black;
+  
+}
+.copy{
+    font-size: small;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+}
